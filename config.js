@@ -18,18 +18,18 @@ global.APIs = {
 }
 //═══════[api key of the website]════════\\
 global.APIKeys = {
-	'https://zenzapi.xyz': '805a6c3fa9', //thank you to zenz
+	'https://zenzapi.xyz': '6C3DA177AE', //thank you to zenz
 }
 
 //═══════[modification]════════\\
-global.owner = ['916909137213','6283839980451'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['916909137213'] //another owner number
-global.premium = ['916909137213'] //premium number
-global.pengguna = 'Xeon' //username
-global.botnma = 'Cheems Bot-MD' //bot name
-global.ownernma = '🦄Dream Guy Xeon' //owner name
-global.packname = 'Cheems Bot' //sticker package name
-global.author = 'By Dream Guy Xeon' //sticker author name
+global.owner = ['436703081866174','61878307890'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['436703081866174'] //another owner number
+global.premium = ['436703081866174'] //premium number
+global.pengguna = 'Mozaco' //username
+global.botnma = 'EmilyBot' //bot name
+global.ownernma = '𝑴𝒐𝒛𝒂𝒄𝒐𝑺𝒆𝒓' //owner name
+global.packname = 'ᴇᴍɪʟʏʙᴏᴛ' //sticker package name
+global.author = '𝘔𝘰𝘻𝘢𝘤𝘰 𝘚𝘦𝘳' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
